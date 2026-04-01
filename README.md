@@ -1,9 +1,6 @@
 # xblade720's Github (hell yeah)
 
-
-___Don't give up! Fight!! You have a dream. Fight for it !!___
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wakana Gojo, chapiter 93 of "My dress up darling" _(Who could have thought you would have these kinds of citations from a romance manga)_
+___Never Settle___
 
 # Knowledges
 - Linux : Average Arch User
