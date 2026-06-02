@@ -23,10 +23,3 @@ Hyprland dotfiles optimized for phones and 2in1 laptops
 
 ## GSI-and-customROM-list
 I tried to make docs for noobs in custom ROMs, turns out i forgot about it
-
-# My hardware
-- Laptop : Lenovo500w yoga Gen4
-- Desktop : R5 5600 + GTX1050Ti + 16Gb RAm
-- Phone : OnePlus CPH2747 (OnePlus 15)
-- PsVita : Hacked with Henkaku Enso
-- WiiU : Hacked with Aroma
